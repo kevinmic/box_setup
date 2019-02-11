@@ -1,0 +1,34 @@
+[user]
+    name = Kevin Dodge
+    email = kdodge@alianza.com
+[credential]
+    helper = osxkeychain
+[alias]
+    co = checkout
+    ci = commit
+    st = status
+    br = branch
+[color]
+    diff = auto
+    status = auto
+[core]
+    excludesfile = ~/.gitignore
+
+[rerere]
+    enabled = true
+[push]
+	default = current
+
+[diff]
+    tool = bcompare
+
+[difftool]
+    prompt = false
+
+[merge]
+    tool = bcomp
+    prompt = false
+
+[mergetool]
+    keepBackup = false
+    prompt = false
