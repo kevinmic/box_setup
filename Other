@@ -1,0 +1,2 @@
+Maven effective Pom
+- mvn help:effective-pom -Dverbose
