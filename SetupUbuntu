@@ -1,0 +1,29 @@
+Install 
+- Java 11
+- Java 8
+- Slack
+- Sublime Text
+- Docker
+
+apt-get install
+- git
+- maven
+- npm
+- python3-pip
+
+Other:
+- git key
+- node
+
+TODO
+- AeroSpike cli
+- AWS cli
+- AWS setup
+- Intellij
+- VS Code
+- git global config
+- zsh config
+- aliases
+- email
+- cqlsh
+- 
