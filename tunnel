@@ -1,0 +1,3 @@
+Use sshuttle in order to create a tunnel between your machine and machines in a vpc.
+
+sshuttle -r (name) (ipaddr)/16

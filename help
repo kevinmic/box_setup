@@ -1,0 +1,11 @@
+Splunk
+-----
+cmd - \  -- auto format
+cmd - shift - e -- expand macro (macro defined in back tics)
+
+Sublime
+-----
+cmd+shift+l - select lines, then do this to have a cursor on each line
+cmd+d - add next occurance cursor
+cmd+k+cmd+d -- skip this occurance cursor
+ctrl-cmd-g - cursor at all occurance
