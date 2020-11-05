@@ -5,6 +5,7 @@
     helper = osxkeychain
 [alias]
     co = checkout
+    sw = switch
     ci = commit
     st = status
     br = branch
