@@ -1,0 +1,2 @@
+# Debugging.  Put this inline and the code will stop at that point and allow you to debug further
+import ipdb; ipdb.set_trace()
