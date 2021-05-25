@@ -9,3 +9,8 @@ cmd+shift+l - select lines, then do this to have a cursor on each line
 cmd+d - add next occurance cursor
 cmd+k+cmd+d -- skip this occurance cursor
 ctrl-cmd-g - cursor at all occurance
+
+
+Debug Http
+-----
+nc -l localhost 1234
